@@ -114,4 +114,5 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-
+# add howmbrew 
+eval "$(/opt/homebrew/bin/brew shellenv)"
